@@ -84,6 +84,10 @@ waitress-serve --host=0.0.0.0 --port=8000 server:app
 
 This weather app is deployed and live on Render. You can access the live version here: [Weather App Live Demo](https://weather-app-asmq.onrender.com).
 
+<p align="center">
+  <img src="UI.png" alt="Weather App UI Preview" width="480">
+</p>
+
 ## File Descriptions
 - `weather.py`: Contains the function to fetch weather data from the OpenWeatherMap API.
 
