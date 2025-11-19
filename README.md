@@ -1,5 +1,5 @@
 # Weather Prediction App
-Get real-time weather conditions for any city using the OpenWeatherMap API. This web app is built with Flask and served using Waitress. You can run it locally or deploy it on any standard server.
+Get real time weather conditions for any city using the OpenWeatherMap API. This web app is built with Flask and served using Waitress. You can run it locally or deploy it on any standard server.
 
 ## Features
 - Search for current weather conditions by city name.
